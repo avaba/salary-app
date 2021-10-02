@@ -1,3 +1,5 @@
+import {Component} from 'react';
+
 import AppInfo from '../app-info/app-info';
 import SearchPanel from '../search-panel/search-panel';
 import AppFilter from '../app-filter/app-filter';
@@ -6,26 +8,37 @@ import EmployeesAddForm from '../employees-add-form/employees-add-form';
 
 import './app.css';
 
-const data = [
-  {id: 1, name: 'Sergey', salary: 800, increase: true},
-  {id: 2, name: 'Vika', salary: 2000, increase: false},
-  {id: 3, name: 'Vova', salary: 5000, increase: true},
-];
+class App extends Component {
+  constructor (props) {
+    super(props);
+    this.state = {
+      data: [
+        {id: 1, name: 'Sergey', salary: 800, increase: true},
+        {id: 2, name: 'Vika', salary: 2000, increase: false},
+        {id: 3, name: 'Vova', salary: 5000, increase: true},
+      ]
+    };
+  }
 
-function App () {
-  return (
-      <div className="app">
-        <AppInfo/>
+  onDelete = (id) => {
+    console.log(id);
+  };
 
-        <div className="search-panel">
-          <SearchPanel/>
-          <AppFilter/>
+  render () {
+    return (
+        <div className="app">
+          <AppInfo/>
+
+          <div className="search-panel">
+            <SearchPanel/>
+            <AppFilter/>
+          </div>
+
+          <EmployeesList data={this.state.data}/>
+          <EmployeesAddForm/>
         </div>
-
-        <EmployeesList data={data}/>
-        <EmployeesAddForm/>
-      </div>
-  );
+    );
+  }
 }
 
 export default App;
