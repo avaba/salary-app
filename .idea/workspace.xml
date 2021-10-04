@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec0d1723-9a6e-4844-905a-7ea542020ac0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_template.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-filter/app-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-filter/app-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-info/app-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-info/app-info.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/employees-add-form/employees-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-add-form/employees-add-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/employees-list/employees-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list/employees-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +63,7 @@
       <updated>1633204206811</updated>
       <workItem from="1633204208025" duration="1896000" />
       <workItem from="1633246026642" duration="12046000" />
-      <workItem from="1633347373395" duration="7679000" />
+      <workItem from="1633347373395" duration="9363000" />
     </task>
     <servers />
   </component>
