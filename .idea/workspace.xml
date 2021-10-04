@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe4b82d-b636-409b-8e13-e4f1127ce7c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+    <list default="true" id="ec0d1723-9a6e-4844-905a-7ea542020ac0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_template.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-filter/app-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-filter/app-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-info/app-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-info/app-info.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/employees-add-form/employees-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-add-form/employees-add-form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/employees-list/employees-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list/employees-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1yothVBDwf4tpuMMtt5NGXraNJR" />
+  <component name="ProjectId" id="1yxriTXdgoewPQuvjW4gyUHG2fm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -26,17 +36,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowFavorites.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="FeaturesTrainerSettingsPanel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -57,44 +66,20 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0fe4b82d-b636-409b-8e13-e4f1127ce7c1" name="Changes" comment="" />
-      <created>1632929894247</created>
+      <changelist id="ec0d1723-9a6e-4844-905a-7ea542020ac0" name="Changes" comment="" />
+      <created>1633204206811</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1632929894247</updated>
-      <workItem from="1632929896500" duration="1833000" />
-      <workItem from="1633123445868" duration="6245000" />
-      <workItem from="1633154907441" duration="7002000" />
-      <workItem from="1633201861002" duration="288000" />
-      <workItem from="1633202165459" duration="99000" />
-      <workItem from="1633202283121" duration="578000" />
-      <workItem from="1633202891241" duration="10000" />
-      <workItem from="1633203878398" duration="149000" />
+      <updated>1633204206811</updated>
+      <workItem from="1633204208025" duration="1896000" />
+      <workItem from="1633246026642" duration="12046000" />
+      <workItem from="1633347373395" duration="7679000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
